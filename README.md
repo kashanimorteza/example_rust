@@ -107,5 +107,6 @@ cargo fmt
 
 ## Examples
 ```bash
-01   : fist app
+01   : Print
+02   : Print and Variable
 ```
