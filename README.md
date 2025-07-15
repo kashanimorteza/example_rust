@@ -33,10 +33,9 @@ cd ./example_rust
 ### Mac
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew --version
 brew install rust
-rustc --version
-cargo --version
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source $HOME/.cargo/env
 ```
 
 ### Linux
@@ -48,6 +47,28 @@ cargo --version
 ```
 
 
+<br><br>
+
+<!--------------------------------------------------------------------------------- Command -->
+## Command 
+
+### rust-analyzer
+### rust-gdb
+### rust-gdbgui
+### rust-lldb
+### rustc
+### rustdoc
+### rustfmt
+### rustup
+```bash
+rustup --version
+rustup install nightly
+rustup toolchain list
+rustup default nightly
+rustup default stable
+```
+
+
 
 <br><br>
 
@@ -56,3 +77,5 @@ cargo --version
 
 ### garbage collection 
 ### Segmentation fault 
+
+
