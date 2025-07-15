@@ -10,6 +10,7 @@
 ## Resource  
     Web        : https://www.rust-lang.org/
     Github     : https://github.com/rust-lang
+    Package    : https://crates.io/
     Online IDE : https://play.rust-lang.org/
 
 
@@ -72,6 +73,12 @@ rustup default stable
 ```bash
 cargo --help
 cargo new ./codes/ex_01
+cargo add random
+cargo run
+cargo run -q
+cargo build
+cargo build --release
+cargo fmt
 ```
 
 <!--------------------------------------------------------------------------------- Concepts -->
@@ -99,6 +106,6 @@ cargo new ./codes/ex_01
 <br><br>
 
 ## Examples
-
-#### 01
-    fist app
+```bash
+01   : fist app
+```
