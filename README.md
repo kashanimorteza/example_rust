@@ -33,3 +33,9 @@ cargo --version
 ### Windows
 ```bash
 ```
+
+<!--------------------------------------------------------------------------------- Concepts -->
+## Concepts 
+
+### garbage collection 
+#### garbage collection 
