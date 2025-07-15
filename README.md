@@ -19,6 +19,9 @@ cd ./example_rust
 
 ### Mac
 ```bash
-git clone git@github.com:kashanimorteza/example_rust.git  
-cd ./example_rust
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew --version
+brew install rust
+rustc --version
+cargo --version
 ```
