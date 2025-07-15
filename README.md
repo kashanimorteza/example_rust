@@ -71,6 +71,7 @@ rustup default stable
 ### cargo
 ```bash
 cargo --help
+cargo new ./codes/ex_01
 ```
 
 <!--------------------------------------------------------------------------------- Concepts -->
