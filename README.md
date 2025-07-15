@@ -8,8 +8,9 @@
 
 <!--------------------------------------------------------------------------------- Resource -->
 ## Resource  
-    Web    : https://www.rust-lang.org/
-    Github : https://github.com/rust-lang
+    Web        : https://www.rust-lang.org/
+    Github     : https://github.com/rust-lang
+    Online IDE : https://play.rust-lang.org/
 
 
 
