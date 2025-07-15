@@ -79,3 +79,11 @@ rustup default stable
 ### Segmentation fault 
 
 
+
+<br><br>
+
+<!--------------------------------------------------------------------------------- IDE -->
+## IDE 
+
+### Extension
+    rust-analyzer
