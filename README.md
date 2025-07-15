@@ -25,3 +25,11 @@ brew install rust
 rustc --version
 cargo --version
 ```
+
+### Linux
+```bash
+```
+
+### Windows
+```bash
+```
