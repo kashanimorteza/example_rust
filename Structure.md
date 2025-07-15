@@ -68,10 +68,8 @@ rustup toolchain list
 rustup default nightly
 rustup default stable
 ```
-### cargo
-```bash
-cargo --help
-```
+
+
 
 <!--------------------------------------------------------------------------------- Concepts -->
 <br><br>
