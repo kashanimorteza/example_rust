@@ -1,5 +1,5 @@
 <!--------------------------------------------------------------------------------- Description -->
-# example_rust
+# Rust
     this is example of rust
 
 <br><br>
