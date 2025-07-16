@@ -108,6 +108,7 @@ cargo fmt
 
 ## Examples
 ```bash
-01   : Print
-02   : Print and Variable
+01 : Print
+02 : Type and variable
+03 : Method
 ```
