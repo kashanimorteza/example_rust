@@ -110,5 +110,5 @@ cargo fmt
 ```bash
 01 : Print
 02 : Type and variable
-03 : Method
+03 : Function
 ```
