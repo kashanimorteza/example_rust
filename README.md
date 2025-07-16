@@ -12,6 +12,7 @@
     Github     : https://github.com/rust-lang
     Package    : https://crates.io/
     Online IDE : https://play.rust-lang.org/
+    Online IDE : https://www.youtube.com/watch?v=4SE-7UM0Ny8&list=PLEQkjob0yvF-Zai14ERqrTB-lAelqTJfm
 
 
 
