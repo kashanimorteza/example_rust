@@ -34,8 +34,8 @@
 ## Variable
 #### Declar
     let name: type = value;        let x: i8 = 1;
-    let name= value;               let x=1;
-    let mut name: type = value;    let mut x:i8 = 1;
+    let name= value;               let x = 1;
+    let mut name: type = value;    let mut x: i8 = 1;
 
 
 
