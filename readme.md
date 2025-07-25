@@ -52,11 +52,25 @@ echo $HOME/.cargo/env >> $HOME/.zshrc
 
 
 
-<!--------------------------------------------------------------------------------- Command -->
+<!--------------------------------------------------------------------------------- Concept -->
 <br><br>
 
-## Command 
+## Concept
 
+### garbage collection 
+### Segmentation fault 
+### Scop
+### Stack
+### Heap
+### Ownership
+### Borrowing
+
+
+
+<!--------------------------------------------------------------------------------- Tools -->
+<br><br>
+
+## Tools
 ### rust-analyzer
 ### rust-gdb
 ### rust-gdbgui
@@ -65,62 +79,57 @@ echo $HOME/.cargo/env >> $HOME/.zshrc
 ### rustdoc
 ### rustfmt
 ### rustup
-```bash
-rustup --version
-rustup install nightly
-rustup toolchain list
-rustup default nightly
-rustup default stable
-```
 ### cargo
-```bash
-cargo --help
-cargo new ./codes/ex_01
-cargo new ./codes/lib_01 --lib
-cargo add random
-cargo run
-cargo run -q
-cargo build
-cargo build --release
-cargo fmt
-```
 
-<!--------------------------------------------------------------------------------- Concepts -->
+
+
+
+<!--------------------------------------------------------------------------------- Programming -->
 <br><br>
 
-## Concepts 
+## Programming
 
-### garbage collection 
-### Segmentation fault 
+<!-------------------------Type -->
+### Type
+#### Simple
+    Boolean, Char, Integer, Float, Size, String
+#### Custom
+    Enum, Option, Struct
 
+<!-------------------------Variable -->
+### Variable
+    Declar, Shadow, Mutable, Immutable, Array, Slice, Vector, Refrence, DeRefrence, Enum, Life time
 
+<!-------------------------Function -->
+### Function
+#### Concept
+    input, output
+#### Associated Function
+#### Generic
+#### Traits
 
-<!--------------------------------------------------------------------------------- Tools -->
-<br><br>
+<!-------------------------Error -->
+### Error
+    .unwrap()
+    enum Result
 
-## Tools
+<!-------------------------Condition -->
+### Condition
+    if
+    match
 
-### VS-Code 
-#### Extension
-    Rust Extension Pack
+<!-------------------------Loop -->
+### Loop
+    loop
+    while
 
+<!-------------------------Create -->
+### Crate
+    io
+    rand
+#### Path
+#### Libreary
+#### Crate
+#### Package
+#### Module
 
-
-<!--------------------------------------------------------------------------------- Examples -->
-<br><br>
-
-## Examples
-```bash
-01 : Print
-02 : Type and variable
-03 : Function
-04 : shell
-05 : Condition
-06 : Loop
-07 : Struct
-08 : Error
-09 : 
-10 : 
-
-lib_01 : Libreary
-```
