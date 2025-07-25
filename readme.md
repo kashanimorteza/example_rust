@@ -7,7 +7,7 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-## Resource  
+# Resource  
     Web        : https://www.rust-lang.org/
     Github     : https://github.com/rust-lang
     Package    : https://crates.io/
@@ -20,7 +20,7 @@
 <!--------------------------------------------------------------------------------- Source -->
 <br><br>
 
-## Source 
+# Source 
 ```bash
 git clone git@github.com:kashanimorteza/example_rust.git  
 cd ./example_rust
@@ -31,9 +31,9 @@ cd ./example_rust
 <!--------------------------------------------------------------------------------- Install -->
 <br><br>
 
-## Install 
+# Install 
 
-### Mac
+## Mac
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install rust
@@ -42,11 +42,11 @@ source $HOME/.cargo/env
 echo $HOME/.cargo/env >> $HOME/.zshrc
 ```
 
-### Linux
+## Linux
 ```bash
 ```
 
-### Windows
+## Windows
 ```bash
 ```
 
@@ -55,7 +55,7 @@ echo $HOME/.cargo/env >> $HOME/.zshrc
 <!--------------------------------------------------------------------------------- Concept -->
 <br><br>
 
-## Concept
+# Concept
 
 ### garbage collection 
 ### Segmentation fault 
@@ -87,13 +87,13 @@ echo $HOME/.cargo/env >> $HOME/.zshrc
 <!--------------------------------------------------------------------------------- Programming -->
 <br><br>
 
-## Programming
+# Programming
 
 <!-------------------------Type -->
-### Type
-#### Simple
+## Type
+### Simple
     Boolean, Char, Integer, Float, Size, String
-#### Custom
+### Custom
     Enum, Option, Struct
 
 <!-------------------------Variable -->
