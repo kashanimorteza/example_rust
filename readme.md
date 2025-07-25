@@ -33,7 +33,7 @@ cd ./example_rust
 
 # Install 
 
-## Mac
+### Mac
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install rust
@@ -42,11 +42,11 @@ source $HOME/.cargo/env
 echo $HOME/.cargo/env >> $HOME/.zshrc
 ```
 
-## Linux
+### Linux
 ```bash
 ```
 
-## Windows
+### Windows
 ```bash
 ```
 
@@ -70,7 +70,7 @@ echo $HOME/.cargo/env >> $HOME/.zshrc
 <!--------------------------------------------------------------------------------- Tools -->
 <br><br>
 
-## Tools
+# Tools
 ### rust-analyzer
 ### rust-gdb
 ### rust-gdbgui
@@ -97,39 +97,39 @@ echo $HOME/.cargo/env >> $HOME/.zshrc
     Enum, Option, Struct
 
 <!-------------------------Variable -->
-### Variable
+## Variable
     Declar, Shadow, Mutable, Immutable, Array, Slice, Vector, Refrence, DeRefrence, Enum, Life time
 
 <!-------------------------Function -->
-### Function
-#### Concept
+## Function
+### Concept
     input, output
-#### Associated Function
-#### Generic
-#### Traits
+### Associated Function
+### Generic
+### Traits
 
 <!-------------------------Error -->
-### Error
+## Error
     .unwrap()
     enum Result
 
 <!-------------------------Condition -->
-### Condition
+## Condition
     if
     match
 
 <!-------------------------Loop -->
-### Loop
+## Loop
     loop
     while
 
 <!-------------------------Create -->
-### Crate
+## Crate
     io
     rand
-#### Path
-#### Libreary
-#### Crate
-#### Package
-#### Module
+### Path
+### Libreary
+### Crate
+### Package
+### Module
 
